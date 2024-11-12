@@ -39,11 +39,15 @@ El la seccion codigo(1) haz click en main (2), escribe tu apellido_nombre(3) y f
 
 ![Screenshot From 2024-11-12 04-56-42](https://github.com/user-attachments/assets/716d6049-6e43-4429-83ab-78dc40c6da69)
 
-Una vez creada tu rama, abre el archivo reamde.md e incluye tu nombre y la clase que te gustaria trabajar en la lista al final de la pagina.
+Una vez creada tu rama, abre el archivo readme.md e incluye tu nombre y la clase que te gustaria trabajar en la lista al final de la pagina.
 
-Despues de agregar tus datos haz click en "commit changes".
+Despues de agregar tus datos guarda los cambios haciendo click en "commit changes" .
 
 ![Screenshot From 2024-11-12 05-14-06](https://github.com/user-attachments/assets/7e197b46-ea88-4a12-98cf-55a4c01beee3)
+
+Tras guardar los cambios realiza una peticion para que tu modificacion sea integrada haciendo click en "pull request"
+
+![Screenshot From 2024-11-12 05-47-23](https://github.com/user-attachments/assets/ab7c43bb-4bb6-403a-9dce-3ee7d96b3445)
 
 
 Como destino escoge el repositorio de LuisMac2022 y la rama develop.
