@@ -1,5 +1,6 @@
 # NAVIDAD
 Propuesta inicial.
+
 Para la tematica festiva se ha elegido la iconica historia del Grinch y los Quien, de como el primero se roba los regalos de navidad y  los Quien recuerdan que el espiritu de la navidad es estar unidos.
 
 
