@@ -48,10 +48,12 @@ Despues de agregar tus datos haz click en "commit changes".
 
 
 Como destino escoge el repositorio de LuisMac2022 y la rama develop.
+
 ![Screenshot From 2024-11-12 05-16-15](https://github.com/user-attachments/assets/102ae65b-6135-462d-b973-03a1d2528485)
 
 
 Del otro lado coloca la rama que creaste para agregar tus datos.
+
 ![Screenshot From 2024-11-12 05-16-28](https://github.com/user-attachments/assets/8e8fa01e-11a4-410c-a06a-ead820c119e5)
 
 
