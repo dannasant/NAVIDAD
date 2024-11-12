@@ -18,7 +18,7 @@ Todas las clases tienen un atributo velocidad
 
 * Trineo
 La clase trineo sera representada por una elipse.
-- Tiene metodo mover. se mueven sobre un eje x  a una posicion y fija. 
++ Tiene metodo mover. se mueven sobre un eje x  a una posicion y fija. 
 - La clase trineo tiene un metodo lanzar proyectil. El metodo lanzar proyectil instancia un proyectil desde la posicion del trineo.
 
 * Proyectil
