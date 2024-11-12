@@ -13,7 +13,7 @@ Presentar un proyecto inclusivo en el que todos podamos participar y un juego co
 Se desarrollara un prototipo con tres clases:
 
 
-Todas las clases tienen un atributo velocidad
+Todas las clases tienen un atributo velocidad,posicion en eje x y posicion en eje y.
 
 1-. Trineo
 La clase trineo sera representada por una elipse.
