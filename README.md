@@ -39,7 +39,7 @@ El la seccion codigo(1) haz click en main (2), escribe tu apellido_nombre(3) y f
 
 ![Screenshot From 2024-11-12 04-56-42](https://github.com/user-attachments/assets/716d6049-6e43-4429-83ab-78dc40c6da69)
 
-Una vez creada tu rama, abre el archivo reamde.md e incluye tu nombre y la clase que te gustaria trabajar en la lista al final de la pagina.
+Una vez creada tu rama, abre el archivo readme.md e incluye tu nombre y la clase que te gustaria trabajar en la lista al final de la pagina.
 
 Despues de agregar tus datos haz click en "commit changes".
 
