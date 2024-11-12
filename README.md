@@ -15,23 +15,20 @@ Se desarrollara un prototipo con tres clases:
 
 Todas las clases tienen un atributo velocidad
 
-
-*Trineo
+1-. Trineo
 La clase trineo sera representada por una elipse.
-Tiene metodo mover. se mueven sobre un eje x  a una posicion y fija. 
-La clase trineo tiene un metodo lanzar proyectil.
-El metodo lanzar proyectil instancia un proyectil desde la posicion del trineo.
+  + Tiene metodo mover. se mueven sobre un eje x  a una posicion y fija. 
+  - Tiene un metodo lanzar proyectil. El metodo lanzar proyectil instancia un proyectil desde la posicion del trineo.
 
-*Proyectil
+2-. Proyectil
 La clase proyectil sera representada por un cuadrado.
-Tiene atributo valor. Que puede ser +1 o -1.
-Tiene metodo mover. La clase proyectil se mueve sobre el eje y en una posicion x fija.
+  - Tiene atributo valor. Que puede ser +1 o -1.
+  - Tiene metodo mover. La clase proyectil se mueve sobre el eje y en una posicion x fija.
 
-*Jugador
+3-. Jugador
 La clase jugador tiene el atributo vida y puntuacion.
--Tiene metodo mover.se mueven sobre un eje x  a una posicion y fija. 
-La clase jugador tiene el metodo capturar proyectil.
-El metodo capturar proyectil se ejecuta cuando el jugador toca un proyectil antes de que este haya tocado el suelo. Si es positivo se suma a la puntuacion, si es negativo se resta a la vida.
+  - Tiene metodo mover.se mueven sobre un eje x  a una posicion y fija. 
+  - Tiene el metodo capturar proyectil. El metodo capturar proyectil se ejecuta cuando el jugador toca un proyectil antes de que este haya tocado el suelo. Si es positivo se suma a la puntuacion, si es negativo se resta a la vida.
 
 ## Actividad 1. Agrega tu nombre
 Realiza una copia del proyecto haciendo click en "Fork" y despues de asignarle un nombre en "crear Fork".
@@ -42,16 +39,20 @@ El la seccion codigo(1) haz click en main (2), escribe tu apellido_nombre(3) y f
 
 ![Screenshot From 2024-11-12 04-56-42](https://github.com/user-attachments/assets/716d6049-6e43-4429-83ab-78dc40c6da69)
 
-Una vez creada tu rama, abre el archivo reamde.md e incluye tu nombre en la lista junto la clase que te gustaria trabajar.
+Una vez creada tu rama, abre el archivo reamde.md e incluye tu nombre y la clase que te gustaria trabajar en la lista al final de la pagina.
+
 Despues de agregar tus datos haz click en "commit changes".
+
 ![Screenshot From 2024-11-12 05-14-06](https://github.com/user-attachments/assets/7e197b46-ea88-4a12-98cf-55a4c01beee3)
 
 
 Como destino escoge el repositorio de LuisMac2022 y la rama develop.
+
 ![Screenshot From 2024-11-12 05-16-15](https://github.com/user-attachments/assets/102ae65b-6135-462d-b973-03a1d2528485)
 
 
 Del otro lado coloca la rama que creaste para agregar tus datos.
+
 ![Screenshot From 2024-11-12 05-16-28](https://github.com/user-attachments/assets/8e8fa01e-11a4-410c-a06a-ead820c119e5)
 
 
