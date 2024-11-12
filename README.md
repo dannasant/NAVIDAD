@@ -16,22 +16,20 @@ Se desarrollara un prototipo con tres clases:
 Todas las clases tienen un atributo velocidad
 
 
-*Trineo
+* Trineo
 La clase trineo sera representada por una elipse.
-Tiene metodo mover. se mueven sobre un eje x  a una posicion y fija. 
-La clase trineo tiene un metodo lanzar proyectil.
-El metodo lanzar proyectil instancia un proyectil desde la posicion del trineo.
+- Tiene metodo mover. se mueven sobre un eje x  a una posicion y fija. 
+- La clase trineo tiene un metodo lanzar proyectil. El metodo lanzar proyectil instancia un proyectil desde la posicion del trineo.
 
-*Proyectil
+* Proyectil
 La clase proyectil sera representada por un cuadrado.
-Tiene atributo valor. Que puede ser +1 o -1.
-Tiene metodo mover. La clase proyectil se mueve sobre el eje y en una posicion x fija.
+- Tiene atributo valor. Que puede ser +1 o -1.
+- Tiene metodo mover. La clase proyectil se mueve sobre el eje y en una posicion x fija.
 
-*Jugador
+* Jugador
 La clase jugador tiene el atributo vida y puntuacion.
--Tiene metodo mover.se mueven sobre un eje x  a una posicion y fija. 
-La clase jugador tiene el metodo capturar proyectil.
-El metodo capturar proyectil se ejecuta cuando el jugador toca un proyectil antes de que este haya tocado el suelo. Si es positivo se suma a la puntuacion, si es negativo se resta a la vida.
+- Tiene metodo mover.se mueven sobre un eje x  a una posicion y fija. 
+- La clase jugador tiene el metodo capturar proyectil. El metodo capturar proyectil se ejecuta cuando el jugador toca un proyectil antes de que este haya tocado el suelo. Si es positivo se suma a la puntuacion, si es negativo se resta a la vida.
 
 ## Actividad 1. Agrega tu nombre
 Realiza una copia del proyecto haciendo click en "Fork" y despues de asignarle un nombre en "crear Fork".
