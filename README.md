@@ -45,5 +45,6 @@ El la seccion codigo(1) haz click en main (2), escribe tu apellido_nombre(3) y f
 Una vez creada tu rama, abre el archivo reamde.md e incluye tu nombre en la lista junto la clase que te gustaria trabajar.
 
 Nombre | Clase
+
 Luis Martinez / Main
 
