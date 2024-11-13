@@ -1,5 +1,5 @@
 class Objeto {//Nombre de la clase 
-  float posicionX, posicionY; //Atributo que maneja posicion en x/y
+  float posicionX, posicionY, velocidad; //Atributo que maneja posicion en x/y
   Objeto(float x, float y){//Inicio metodo constructor
    posicionX = x; //Posicion del objeto en eje x
    posicionY = y; //Posicion del objeto en eje y
