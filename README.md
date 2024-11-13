@@ -38,15 +38,14 @@ La clase jugador tiene el atributo vida y puntuacion.
 
 Cuando actualices borrara archivos redundantes respecto al repositorio principal. 
 
-![Screenshot From 2024-11-13 13-21-51](https://github.com/user-attachments/assets/500aa345-f493-44e6-a060-7079564512f4)
+
+![Screenshot From 2024-11-13 13-30-09](https://github.com/user-attachments/assets/7033dca2-35d7-4c4b-b19f-178bc43013d9)
 
 Para actualizar haz click en "Sync ForK" y "Update branch". 
 
-![Screenshot From 2024-11-13 13-11-04](https://github.com/user-attachments/assets/60364842-c179-4f57-9eab-4311af7b9cab)
+![Screenshot From 2024-11-13 13-21-51](https://github.com/user-attachments/assets/500aa345-f493-44e6-a060-7079564512f4)
 
 Una vez sincronizado tendras los archivos mas recientes.
-
-![Screenshot From 2024-11-13 13-30-09](https://github.com/user-attachments/assets/7033dca2-35d7-4c4b-b19f-178bc43013d9)
 
 Esto no afectara tu rama personal. Actualizala siguiendo el mismo proceso.
 
@@ -70,6 +69,7 @@ Para subir tu archivo sigue los pasos 3 en adelante del tutorial de abajo. Tambi
 
 ![Screenshot From 2024-11-13 14-09-15](https://github.com/user-attachments/assets/cd7eda04-5257-417d-ab27-d1a5ed163f18)
 
+![Screenshot From 2024-11-13 13-11-04](https://github.com/user-attachments/assets/60364842-c179-4f57-9eab-4311af7b9cab)
 
 
 ## Actividad 1. Ponle tu rama al arbolito
