@@ -63,6 +63,9 @@ Del otro lado coloca la rama que creaste para agregar tus datos.
 Nombre | Clase
 
 Luis Martinez / Main
+
 Danna Santillan / Entorno 
+
+Islas Emmanuel / Proyectil
 
 
