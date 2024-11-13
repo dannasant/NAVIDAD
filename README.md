@@ -65,14 +65,16 @@ Ahora tu rama tieme mas progreso que main.
 
 ![Screenshot From 2024-11-13 14-02-50](https://github.com/user-attachments/assets/3f27879d-621f-4e37-9f29-4dc6f01f6eee)
 
-Para subir tu archivo sigue los pasos 3 en adelante del tutorial de abajo. Tambien puedes hacer click en "contribute"
+Para subir tu archivo sigue los pasos 3 en adelante dela actividad 1. Tambien puedes hacer click en "contribute"
 
 ![Screenshot From 2024-11-13 14-09-15](https://github.com/user-attachments/assets/cd7eda04-5257-417d-ab27-d1a5ed163f18)
 
-![Screenshot From 2024-11-13 13-11-04](https://github.com/user-attachments/assets/60364842-c179-4f57-9eab-4311af7b9cab)
 
 
 ## Actividad 1. Ponle tu rama al arbolito
+
+![Screenshot From 2024-11-13 13-11-04](https://github.com/user-attachments/assets/60364842-c179-4f57-9eab-4311af7b9cab)
+
 
 Realiza una copia del proyecto haciendo click en "Fork" y despues de asignarle un nombre en "crear Fork".
 ![385085943-a19d8163-9204-4f0c-a4f7-06839459f662](https://github.com/user-attachments/assets/4b2d9122-789e-42fe-9c62-d1588549604e)
