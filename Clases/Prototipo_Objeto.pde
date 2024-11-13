@@ -36,7 +36,7 @@ Si es negativa se resta la vida
 }
 
 
-class Trineo extends Objeto {//La clase es una extension del Objeto, heredando sus propiedades
+abstract class Trineo extends Objeto {//La clase es una extension del Objeto, heredando sus propiedades
 Trineo(float x, float y) {//Inicio del metodo constructor
   super(x,y);//Con super usa el constructor de la clase padre Objeto.
   Proyectil[] saco = {};//Arreglo que guarda los objetos proyectiles   
