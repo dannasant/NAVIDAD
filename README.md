@@ -64,6 +64,7 @@ Nombre | Clase
 
 Luis Martinez / Main
 Danna Santillan / Entorno 
+
 Islas Emmanuel / Proyectil
 
 
